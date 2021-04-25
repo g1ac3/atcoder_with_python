@@ -1,1 +1,6 @@
-# atcoder_with_python
+#pythonの練習!!
+今後pythonを使う予定があるのでpythonの練習とatcoderの復習を兼ねて<br>
+abcで解けた問題をpythonで解いていく<br>
+目標が4完の人間の考え方も書いていくので<br>
+同レベルの方はもちろん<br>
+初心者向けにブログ等を書いている高レートの方も参考にしてください<br>
