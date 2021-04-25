@@ -1,4 +1,5 @@
-#pythonの練習!!
+pythonの練習
+
 今後pythonを使う予定があるのでpythonの練習とatcoderの復習を兼ねて<br>
 abcで解けた問題をpythonで解いていく<br>
 目標が4完の人間の考え方も書いていくので<br>
